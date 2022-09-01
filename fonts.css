@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'Montserrat-Regular';
+    src: url(Fonts/montserrat/Montserrat-Regular.woff2);
+}
+
+@font-face{
+    font-family: 'Montserrat-SemiBold';
+    src: url(Fonts/montserrat/Montserrat-SemiBold.woff2);
+}
+
+@font-face{
+    font-family: 'Montserrat-BoldItalic';
+    src: url(Fonts/montserrat/Montserrat-BoldItalic.woff2);
+}
+
+@font-face{
+    font-family: 'Montserrat-Black';
+    src: url(Fonts/montserrat/Montserrat-Black.woff2);
+}
+
+@font-face{
+    font-family: 'Trebuchet-BoldItalic';
+    src: url(Fonts/trebuchet/Trebuchet-BoldItalic.woff2);
+}
+
+@font-face{
+    font-family: 'TrebuchetMS-Bold';
+    src: url(Fonts/trebuchet/TrebuchetMS-Bold.woff2);
+}
